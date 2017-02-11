@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "5c34bf39e6e40b94a10f498501f7b03e",
+    "pageAccessToken": "EAAVZCN75yLZBUBALZAHUXbUql32aj6uhVUIZBW01AAsF0nVaK2MwT1TZCHLC3VCiSIsmKXYaPJg3PD5hcZBwxhuc7cbBZAGpBthnZAuSGTcOenCYadjaHj1W6MUO3hGWGhNO0PtTdaQtoZAvYSmZC0eicsCZCZB5lZClRJCZBlD7a8mHRnGwZDZD",
+    "validationToken": "hackathon",
+    "serverURL": "https://bot-sample-barba.herokuapp.com/"
 }
